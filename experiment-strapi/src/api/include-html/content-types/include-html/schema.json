@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "include_htmls",
+  "info": {
+    "singularName": "include-html",
+    "pluralName": "include-htmls",
+    "displayName": "Include HTML",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "Contents": {
+      "type": "richtext"
+    },
+    "start_date": {
+      "type": "datetime"
+    },
+    "end_date": {
+      "type": "datetime"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

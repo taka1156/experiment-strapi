@@ -22,7 +22,6 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
-    "strapi-plugin-ja-pack": "^2.0.1",
     "styled-components": "^6.0.0"
   },
   "devDependencies": {
@@ -36,6 +35,6 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "9d389d8d-b69d-4c5b-8e6f-94f400cdf4ac"
+    "uuid": "7351dae5-99eb-42c0-9f1e-79499dddfaaf"
   }
 }
