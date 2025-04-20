@@ -3,6 +3,7 @@
 1.
 ```
 npx create-strapi-app experiment-strapi --quickstart
+※ ログインかサインアップと聞かれたらskipする
 ```
 
 ## [日本語化](https://github.com/yasudacloud/strapi-plugin-ja-pack?tab=readme-ov-file#%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97)
