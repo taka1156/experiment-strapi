@@ -14,7 +14,7 @@
     "title": {
       "type": "text"
     },
-    "Contents": {
+    "contents": {
       "type": "richtext"
     },
     "start_date": {

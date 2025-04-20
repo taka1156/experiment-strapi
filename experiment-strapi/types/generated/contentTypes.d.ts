@@ -381,7 +381,7 @@ export interface ApiIncludeHtmlIncludeHtml extends Struct.CollectionTypeSchema {
     draftAndPublish: true;
   };
   attributes: {
-    Contents: Schema.Attribute.RichText;
+    contents: Schema.Attribute.RichText;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
